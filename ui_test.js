@@ -91,12 +91,12 @@ async function runUITests() {
                 if (!row) row = rows[0]; // fallback
 
                 if (tcActBase && matchingRows.length > 1) {
-                    let exact = matchingRows.find(r => parseInt(r.querySelector('.col-base').textContent.replace(/,/g, '')) === tcActBase);
+                    let exact = matchingRows.find(r => parseInt(r.querySelector('.col-base').textContent.replace(/[,.]/g, '')) === tcActBase);
                     if (exact) row = exact;
                 }
 
-                const baseText = row.querySelector('.col-base').textContent.replace(/,/g, '');
-                const jobText = row.querySelector('.col-job').textContent.replace(/,/g, '');
+                const baseText = row.querySelector('.col-base').textContent.replace(/[,.]/g, '');
+                const jobText = row.querySelector('.col-job').textContent.replace(/[,.]/g, '');
                 return {
                     base: parseInt(baseText),
                     job: parseInt(jobText)
