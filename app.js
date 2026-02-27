@@ -29,6 +29,13 @@ document.addEventListener('DOMContentLoaded', () => {
             });
     }
 
+    // Load saved settings
+    const savedPlayerLevel = localStorage.getItem('rox_player_level');
+    if (savedPlayerLevel) playerLevelInput.value = savedPlayerLevel;
+
+    const savedWorldLevel = localStorage.getItem('rox_world_level');
+    if (savedWorldLevel) worldLevelInput.value = savedWorldLevel;
+
     // Add event listeners
     const inputs = [searchInput, sizeFilter, elementFilter, sortFilter, playerLevelInput, worldLevelInput, partySizeInput, uniqueClassesInput, odinBlessingInput];
     inputs.forEach(input => {
@@ -39,10 +46,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // Enforce visual value clamping on the inputs when user finishes typing
     playerLevelInput.addEventListener('change', (e) => {
         e.target.value = Math.max(1, Math.min(150, parseInt(e.target.value) || 1));
+        localStorage.setItem('rox_player_level', e.target.value);
         renderMonsters();
     });
     worldLevelInput.addEventListener('change', (e) => {
         e.target.value = Math.max(1, Math.min(150, parseInt(e.target.value) || 1));
+        localStorage.setItem('rox_world_level', e.target.value);
         renderMonsters();
     });
     partySizeInput.addEventListener('change', (e) => {
