@@ -21,7 +21,10 @@ const testCases = [
     { name: "Argiope", pLvl: 54, wLvl: 56, pSize: 5, uClasses: 5, actBase: 79, actJob: 79, isParty: true },
 
     // 4. User's Live Party Data (Player 54, World 56, Party 5, Jobs 4)
-    { name: "Argiope", pLvl: 54, wLvl: 56, pSize: 5, uClasses: 4, actBase: 76, actJob: 76, isParty: true }
+    { name: "Argiope", pLvl: 54, wLvl: 56, pSize: 5, uClasses: 4, actBase: 76, actJob: 76, isParty: true },
+
+    // 5. Odin's Blessing Test (Player 54, World 56, Solo, Odin Active)
+    { name: "Argiope", pLvl: 54, wLvl: 56, mLvl: 52, isOdin: true, actBase: 1422, actJob: 1422 }
 ];
 
 if (typeof module !== 'undefined' && module.exports) {

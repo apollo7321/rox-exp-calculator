@@ -4,8 +4,6 @@
     "level": 1,
     "base_xp": 32,
     "job_xp": 32,
-    "odin_base": 192,
-    "odin_job": 192,
     "location": "Prontera South Gate",
     "size": "Medium",
     "element": "Water"
@@ -15,8 +13,6 @@
     "level": 2,
     "base_xp": 17,
     "job_xp": 17,
-    "odin_base": 102,
-    "odin_job": 102,
     "location": "Prontera South Gate",
     "size": "Small",
     "element": "Earth"
@@ -26,8 +22,6 @@
     "level": 3,
     "base_xp": 18,
     "job_xp": 18,
-    "odin_base": 108,
-    "odin_job": 108,
     "location": "Prontera South Gate",
     "size": "Small",
     "element": "Earth"
@@ -37,8 +31,6 @@
     "level": 4,
     "base_xp": 19,
     "job_xp": 19,
-    "odin_base": 114,
-    "odin_job": 114,
     "location": "Prontera South Gate",
     "size": "Small",
     "element": "Neutral"
@@ -48,8 +40,6 @@
     "level": 5,
     "base_xp": 20,
     "job_xp": 20,
-    "odin_base": 120,
-    "odin_job": 120,
     "location": "Morroc",
     "size": "Small",
     "element": "Neutral"
@@ -59,8 +49,6 @@
     "level": 6,
     "base_xp": 21,
     "job_xp": 21,
-    "odin_base": 126,
-    "odin_job": 126,
     "location": "Morroc",
     "size": "Small",
     "element": "Fire"
@@ -70,8 +58,6 @@
     "level": 7,
     "base_xp": 22,
     "job_xp": 22,
-    "odin_base": 132,
-    "odin_job": 132,
     "location": "Payon",
     "size": "Medium",
     "element": "Earth"
@@ -81,8 +67,6 @@
     "level": 8,
     "base_xp": 23,
     "job_xp": 23,
-    "odin_base": 138,
-    "odin_job": 138,
     "location": "Mjolnir Mountains",
     "size": "Medium",
     "element": "Water"
@@ -92,8 +76,6 @@
     "level": 9,
     "base_xp": 24,
     "job_xp": 24,
-    "odin_base": 144,
-    "odin_job": 144,
     "location": "Morroc",
     "size": "Small",
     "element": "Fire"
@@ -103,8 +85,6 @@
     "level": 10,
     "base_xp": 25,
     "job_xp": 25,
-    "odin_base": 150,
-    "odin_job": 150,
     "location": "Morroc",
     "size": "Medium",
     "element": "Wind"
@@ -114,8 +94,6 @@
     "level": 11,
     "base_xp": 40,
     "job_xp": 13,
-    "odin_base": 240,
-    "odin_job": 78,
     "location": "Prontera West",
     "size": "Medium",
     "element": "Poison"
@@ -125,8 +103,6 @@
     "level": 12,
     "base_xp": 41,
     "job_xp": 14,
-    "odin_base": 246,
-    "odin_job": 84,
     "location": "Morroc",
     "size": "Small",
     "element": "Wind"
@@ -136,8 +112,6 @@
     "level": 13,
     "base_xp": 28,
     "job_xp": 28,
-    "odin_base": 168,
-    "odin_job": 168,
     "location": "Capital Sewer 1F",
     "size": "Small",
     "element": "Shadow"
@@ -147,8 +121,6 @@
     "level": 14,
     "base_xp": 29,
     "job_xp": 29,
-    "odin_base": 174,
-    "odin_job": 174,
     "location": "Payon Cave",
     "size": "Medium",
     "element": "Plant"
@@ -158,8 +130,6 @@
     "level": 15,
     "base_xp": 23,
     "job_xp": 38,
-    "odin_base": 138,
-    "odin_job": 228,
     "location": "Capital Sewer 1F",
     "size": "Small",
     "element": "Neutral"
@@ -169,8 +139,6 @@
     "level": 16,
     "base_xp": 31,
     "job_xp": 31,
-    "odin_base": 186,
-    "odin_job": 186,
     "location": "Prontera West Gate",
     "size": "Small",
     "element": "Earth"
@@ -180,8 +148,6 @@
     "level": 17,
     "base_xp": 32,
     "job_xp": 32,
-    "odin_base": 192,
-    "odin_job": 192,
     "location": "Capital Sewer 1F",
     "size": "Small",
     "element": "Shadow"
@@ -191,8 +157,6 @@
     "level": 18,
     "base_xp": 33,
     "job_xp": 33,
-    "odin_base": 198,
-    "odin_job": 198,
     "location": "Morroc",
     "size": "Small",
     "element": "Fire"
@@ -202,8 +166,6 @@
     "level": 19,
     "base_xp": 34,
     "job_xp": 34,
-    "odin_base": 204,
-    "odin_job": 204,
     "location": "Prontera",
     "size": "Medium",
     "element": "Earth"
@@ -213,8 +175,6 @@
     "level": 20,
     "base_xp": 35,
     "job_xp": 35,
-    "odin_base": 210,
-    "odin_job": 210,
     "location": "Payon",
     "size": "Medium",
     "element": "Earth"
@@ -224,8 +184,6 @@
     "level": 21,
     "base_xp": 45,
     "job_xp": 27,
-    "odin_base": 270,
-    "odin_job": 162,
     "location": "Capital Sewer 1F",
     "size": "Small",
     "element": "Water"
@@ -235,8 +193,6 @@
     "level": 22,
     "base_xp": 37,
     "job_xp": 37,
-    "odin_base": 222,
-    "odin_job": 222,
     "location": "Mjolnir Mountains",
     "size": "Small",
     "element": "Wind"
@@ -246,8 +202,6 @@
     "level": 23,
     "base_xp": 29,
     "job_xp": 48,
-    "odin_base": 174,
-    "odin_job": 288,
     "location": "Capital Sewer 1F",
     "size": "Small",
     "element": "Shadow"
@@ -257,8 +211,6 @@
     "level": 24,
     "base_xp": 39,
     "job_xp": 39,
-    "odin_base": 234,
-    "odin_job": 234,
     "location": "Mjolnir Mountains",
     "size": "Large",
     "element": "Water"
@@ -268,8 +220,6 @@
     "level": 25,
     "base_xp": 40,
     "job_xp": 40,
-    "odin_base": 240,
-    "odin_job": 240,
     "location": "Ant Hell",
     "size": "Medium",
     "element": "Neutral"
@@ -279,8 +229,6 @@
     "level": 26,
     "base_xp": 41,
     "job_xp": 41,
-    "odin_base": 246,
-    "odin_job": 246,
     "location": "Payon Cave",
     "size": "Medium",
     "element": "Undead"
@@ -290,8 +238,6 @@
     "level": 27,
     "base_xp": 63,
     "job_xp": 21,
-    "odin_base": 378,
-    "odin_job": 126,
     "location": "Mjolnir Mountains",
     "size": "Small",
     "element": "Wind"
@@ -301,8 +247,6 @@
     "level": 28,
     "base_xp": 43,
     "job_xp": 43,
-    "odin_base": 258,
-    "odin_job": 258,
     "location": "Payon Cave",
     "size": "Medium",
     "element": "Undead"
@@ -312,8 +256,6 @@
     "level": 29,
     "base_xp": 55,
     "job_xp": 33,
-    "odin_base": 330,
-    "odin_job": 198,
     "location": "Labyrinth Forest",
     "size": "Small",
     "element": "Wind"
@@ -323,8 +265,6 @@
     "level": 30,
     "base_xp": 34,
     "job_xp": 56,
-    "odin_base": 204,
-    "odin_job": 336,
     "location": "Capital Sewer 2F",
     "size": "Small",
     "element": "Shadow"
@@ -334,8 +274,6 @@
     "level": 31,
     "base_xp": 46,
     "job_xp": 46,
-    "odin_base": 276,
-    "odin_job": 276,
     "location": "Labyrinth Forest",
     "size": "Small",
     "element": "Earth"
@@ -345,8 +283,6 @@
     "level": 31,
     "base_xp": 46,
     "job_xp": 46,
-    "odin_base": 276,
-    "odin_job": 276,
     "location": "Mjolnir Mountains",
     "size": "Small",
     "element": "Wind"
@@ -356,8 +292,6 @@
     "level": 32,
     "base_xp": 35,
     "job_xp": 59,
-    "odin_base": 210,
-    "odin_job": 354,
     "location": "Mjolnir Mountains",
     "size": "Small",
     "element": "Wind"
@@ -367,8 +301,6 @@
     "level": 32,
     "base_xp": 71,
     "job_xp": 24,
-    "odin_base": 426,
-    "odin_job": 144,
     "location": "Labyrinth Forest",
     "size": "Small",
     "element": "Earth"
@@ -378,8 +310,6 @@
     "level": 33,
     "base_xp": 47,
     "job_xp": 47,
-    "odin_base": 282,
-    "odin_job": 282,
     "location": "Payon Cave",
     "size": "Medium",
     "element": "Undead"
@@ -389,8 +319,6 @@
     "level": 34,
     "base_xp": 25,
     "job_xp": 74,
-    "odin_base": 150,
-    "odin_job": 444,
     "location": "Mjolnir Mountains",
     "size": "Small",
     "element": "Earth"
@@ -400,8 +328,6 @@
     "level": 34,
     "base_xp": 49,
     "job_xp": 49,
-    "odin_base": 294,
-    "odin_job": 294,
     "location": "Shipwreck 1F, 2F, 3F",
     "size": "Small",
     "element": "Undead"
@@ -411,8 +337,6 @@
     "level": 35,
     "base_xp": 50,
     "job_xp": 50,
-    "odin_base": 300,
-    "odin_job": 300,
     "location": "Treasure Ship 1F, 2F, 3F",
     "size": "Small",
     "element": "Water"
@@ -422,8 +346,6 @@
     "level": 36,
     "base_xp": 64,
     "job_xp": 38,
-    "odin_base": 384,
-    "odin_job": 228,
     "location": "Treasure Ship 1F, 2F, 3F",
     "size": "Small",
     "element": "Water"
@@ -433,8 +355,6 @@
     "level": 37,
     "base_xp": 26,
     "job_xp": 78,
-    "odin_base": 156,
-    "odin_job": 468,
     "location": "Mjolnir Dead Pit 1F",
     "size": "Small",
     "element": "Earth"
@@ -444,8 +364,6 @@
     "level": 37,
     "base_xp": 78,
     "job_xp": 26,
-    "odin_base": 468,
-    "odin_job": 156,
     "location": "Labyrinth Forest",
     "size": "Small",
     "element": "Earth"
@@ -455,8 +373,6 @@
     "level": 38,
     "base_xp": 53,
     "job_xp": 53,
-    "odin_base": 318,
-    "odin_job": 318,
     "location": "Mjolnir Dead Pit 1F",
     "size": "Small",
     "element": "Earth"
@@ -466,8 +382,6 @@
     "level": 39,
     "base_xp": 54,
     "job_xp": 54,
-    "odin_base": 324,
-    "odin_job": 324,
     "location": "Mjolnir Mountains",
     "size": "Medium",
     "element": "Fire"
@@ -477,8 +391,6 @@
     "level": 40,
     "base_xp": 69,
     "job_xp": 41,
-    "odin_base": 414,
-    "odin_job": 246,
     "location": "Labyrinth Forest",
     "size": "Small",
     "element": "Wind"
@@ -488,8 +400,6 @@
     "level": 41,
     "base_xp": 43,
     "job_xp": 71,
-    "odin_base": 258,
-    "odin_job": 426,
     "location": "Treasure Ship 1F, 2F, 3F",
     "size": "Small",
     "element": "Ghost"
@@ -499,8 +409,6 @@
     "level": 42,
     "base_xp": 57,
     "job_xp": 57,
-    "odin_base": 342,
-    "odin_job": 342,
     "location": "Geffen Tower",
     "size": "Medium",
     "element": "Poison"
@@ -510,8 +418,6 @@
     "level": 43,
     "base_xp": 58,
     "job_xp": 58,
-    "odin_base": 348,
-    "odin_job": 348,
     "location": "Labyrinth Forest",
     "size": "Large",
     "element": "Earth"
@@ -521,8 +427,6 @@
     "level": 44,
     "base_xp": 59,
     "job_xp": 59,
-    "odin_base": 354,
-    "odin_job": 354,
     "location": "Labyrinth Forest",
     "size": "Medium",
     "element": "Wind"
@@ -532,8 +436,6 @@
     "level": 45,
     "base_xp": 66,
     "job_xp": 40,
-    "odin_base": 396,
-    "odin_job": 240,
     "location": "Payon",
     "size": "Medium",
     "element": "Fire"
@@ -543,8 +445,6 @@
     "level": 46,
     "base_xp": 67,
     "job_xp": 67,
-    "odin_base": 402,
-    "odin_job": 402,
     "location": "Sograt Desert",
     "size": "Small",
     "element": "Fire"
@@ -554,8 +454,6 @@
     "level": 47,
     "base_xp": 62,
     "job_xp": 62,
-    "odin_base": 372,
-    "odin_job": 372,
     "location": "Payon Cave",
     "size": "Medium",
     "element": "Undead"
@@ -565,8 +463,6 @@
     "level": 48,
     "base_xp": 71,
     "job_xp": 71,
-    "odin_base": 426,
-    "odin_job": 426,
     "location": "Ant Cavern",
     "size": "Small",
     "element": "Neutral"
@@ -576,8 +472,6 @@
     "level": 48,
     "base_xp": 89,
     "job_xp": 53,
-    "odin_base": 534,
-    "odin_job": 318,
     "location": "Sograt Desert",
     "size": "Small",
     "element": "Water"
@@ -587,8 +481,6 @@
     "level": 49,
     "base_xp": 64,
     "job_xp": 64,
-    "odin_base": 384,
-    "odin_job": 384,
     "location": "Einbroch",
     "size": "Medium",
     "element": "Fire"
@@ -598,8 +490,6 @@
     "level": 50,
     "base_xp": 75,
     "job_xp": 75,
-    "odin_base": 450,
-    "odin_job": 450,
     "location": "Ant Cavern",
     "size": "Small",
     "element": "Earth"
@@ -609,8 +499,6 @@
     "level": 51,
     "base_xp": 77,
     "job_xp": 77,
-    "odin_base": 462,
-    "odin_job": 462,
     "location": "Ant Cavern",
     "size": "Small",
     "element": "Earth"
@@ -620,8 +508,6 @@
     "level": 52,
     "base_xp": 59,
     "job_xp": 99,
-    "odin_base": 354,
-    "odin_job": 594,
     "location": "Underwater Cave",
     "size": "Small",
     "element": "Water"
@@ -631,8 +517,6 @@
     "level": 53,
     "base_xp": 61,
     "job_xp": 101,
-    "odin_base": 366,
-    "odin_job": 606,
     "location": "Underwater Cave",
     "size": "Small",
     "element": "Water"
@@ -642,8 +526,6 @@
     "level": 54,
     "base_xp": 83,
     "job_xp": 83,
-    "odin_base": 498,
-    "odin_job": 498,
     "location": "Ant Cavern",
     "size": "Small",
     "element": "Earth"
@@ -653,8 +535,6 @@
     "level": 55,
     "base_xp": 43,
     "job_xp": 128,
-    "odin_base": 258,
-    "odin_job": 768,
     "location": "Ant Cavern",
     "size": "Small",
     "element": "Earth"
@@ -664,8 +544,6 @@
     "level": 55,
     "base_xp": 64,
     "job_xp": 106,
-    "odin_base": 384,
-    "odin_job": 636,
     "location": "Underwater Cave",
     "size": "Small",
     "element": "Water"
@@ -675,8 +553,6 @@
     "level": 56,
     "base_xp": 85,
     "job_xp": 85,
-    "odin_base": 510,
-    "odin_job": 510,
     "location": "Payon Cave",
     "size": "Medium",
     "element": "Undead"
@@ -686,8 +562,6 @@
     "level": 57,
     "base_xp": 87,
     "job_xp": 87,
-    "odin_base": 522,
-    "odin_job": 522,
     "location": "Underwater Cave",
     "size": "Medium",
     "element": "Water"
@@ -697,8 +571,6 @@
     "level": 58,
     "base_xp": 91,
     "job_xp": 91,
-    "odin_base": 546,
-    "odin_job": 546,
     "location": "Underwater Cave",
     "size": "Small",
     "element": "Water"
@@ -708,8 +580,6 @@
     "level": 59,
     "base_xp": 93,
     "job_xp": 93,
-    "odin_base": 558,
-    "odin_job": 558,
     "location": "Underwater Cave",
     "size": "Medium",
     "element": "Water"
@@ -719,8 +589,6 @@
     "level": 60,
     "base_xp": 95,
     "job_xp": 95,
-    "odin_base": 570,
-    "odin_job": 570,
     "location": "Underwater Temple",
     "size": "Small",
     "element": "Water"
@@ -730,8 +598,6 @@
     "level": 61,
     "base_xp": 123,
     "job_xp": 74,
-    "odin_base": 738,
-    "odin_job": 444,
     "location": "Pyramid 2F",
     "size": "Small",
     "element": "Earth"
@@ -741,8 +607,6 @@
     "level": 62,
     "base_xp": 99,
     "job_xp": 99,
-    "odin_base": 594,
-    "odin_job": 594,
     "location": "Underwater Cave",
     "size": "Large",
     "element": "Water"
@@ -752,8 +616,6 @@
     "level": 63,
     "base_xp": 101,
     "job_xp": 101,
-    "odin_base": 606,
-    "odin_job": 606,
     "location": "Goblin Village",
     "size": "Medium",
     "element": "Wind"
@@ -763,8 +625,6 @@
     "level": 64,
     "base_xp": 103,
     "job_xp": 103,
-    "odin_base": 618,
-    "odin_job": 618,
     "location": "Underwater Cave",
     "size": "Large",
     "element": "Water"
@@ -774,8 +634,6 @@
     "level": 65,
     "base_xp": 105,
     "job_xp": 105,
-    "odin_base": 630,
-    "odin_job": 630,
     "location": "Pyramid",
     "size": "Medium",
     "element": "Undead"
@@ -785,8 +643,6 @@
     "level": 66,
     "base_xp": 107,
     "job_xp": 107,
-    "odin_base": 642,
-    "odin_job": 642,
     "location": "Pyramid",
     "size": "Medium",
     "element": "Undead"
@@ -796,8 +652,6 @@
     "level": 67,
     "base_xp": 109,
     "job_xp": 109,
-    "odin_base": 654,
-    "odin_job": 654,
     "location": "Payon Cave",
     "size": "Medium",
     "element": "Undead"
@@ -807,8 +661,6 @@
     "level": 68,
     "base_xp": 111,
     "job_xp": 111,
-    "odin_base": 666,
-    "odin_job": 666,
     "location": "Pyramid",
     "size": "Medium",
     "element": "Fire"
@@ -818,8 +670,6 @@
     "level": 69,
     "base_xp": 113,
     "job_xp": 113,
-    "odin_base": 678,
-    "odin_job": 678,
     "location": "Pyramid",
     "size": "Large",
     "element": "Shadow"
@@ -829,8 +679,6 @@
     "level": 70,
     "base_xp": 125,
     "job_xp": 125,
-    "odin_base": 750,
-    "odin_job": 750,
     "location": "Payon West",
     "size": "Small",
     "element": "Fire"
@@ -840,8 +688,6 @@
     "level": 71,
     "base_xp": 128,
     "job_xp": 128,
-    "odin_base": 768,
-    "odin_job": 768,
     "location": "Munak Cave 2F",
     "size": "Small",
     "element": "Fire"
@@ -851,8 +697,6 @@
     "level": 72,
     "base_xp": 131,
     "job_xp": 131,
-    "odin_base": 786,
-    "odin_job": 786,
     "location": "Orc Village",
     "size": "Small",
     "element": "Earth"
@@ -862,8 +706,6 @@
     "level": 74,
     "base_xp": 206,
     "job_xp": 69,
-    "odin_base": 1236,
-    "odin_job": 414,
     "location": "Geffen Dungeon 1F",
     "size": "Small",
     "element": "Fire"
@@ -873,8 +715,6 @@
     "level": 80,
     "base_xp": 78,
     "job_xp": 233,
-    "odin_base": 468,
-    "odin_job": 1398,
     "location": "Labyrinth Forest",
     "size": "Small",
     "element": "Shadow"
@@ -884,8 +724,6 @@
     "level": 81,
     "base_xp": 119,
     "job_xp": 198,
-    "odin_base": 714,
-    "odin_job": 1188,
     "location": "Goblin Forest",
     "size": "Small",
     "element": "Poison"
@@ -895,8 +733,6 @@
     "level": 81,
     "base_xp": 158,
     "job_xp": 158,
-    "odin_base": 948,
-    "odin_job": 948,
     "location": "Glast Heim",
     "size": "Small",
     "element": "Wind"
@@ -906,8 +742,6 @@
     "level": 82,
     "base_xp": 161,
     "job_xp": 161,
-    "odin_base": 966,
-    "odin_job": 966,
     "location": "Kordt Forest",
     "size": "Small",
     "element": "Fire"
@@ -917,8 +751,6 @@
     "level": 83,
     "base_xp": 246,
     "job_xp": 82,
-    "odin_base": 1476,
-    "odin_job": 492,
     "location": "Geffen Dungeon 2F",
     "size": "Small",
     "element": "Shadow"
@@ -928,8 +760,6 @@
     "level": 78,
     "base_xp": 149,
     "job_xp": 149,
-    "odin_base": 894,
-    "odin_job": 894,
     "location": "Geffen Dungeon 1F",
     "size": "Small",
     "element": "Ghost"
@@ -939,8 +769,6 @@
     "level": 95,
     "base_xp": 150,
     "job_xp": 250,
-    "odin_base": 900,
-    "odin_job": 1500,
     "location": "Clock Tower 1F",
     "size": "Small",
     "element": "Wind"
@@ -950,8 +778,6 @@
     "level": 97,
     "base_xp": 206,
     "job_xp": 206,
-    "odin_base": 1236,
-    "odin_job": 1236,
     "location": "Clock Tower 1F",
     "size": "Small",
     "element": "Shadow"
@@ -961,8 +787,6 @@
     "level": 7,
     "base_xp": 33,
     "job_xp": 55,
-    "odin_base": 198,
-    "odin_job": 330,
     "location": "Morroc",
     "size": "Medium",
     "element": "Fire"
@@ -972,8 +796,6 @@
     "level": 8,
     "base_xp": 46,
     "job_xp": 46,
-    "odin_base": 276,
-    "odin_job": 276,
     "location": "Prontera South Gate",
     "size": "Medium",
     "element": "Wind"
@@ -983,8 +805,6 @@
     "level": 10,
     "base_xp": 50,
     "job_xp": 50,
-    "odin_base": 300,
-    "odin_job": 300,
     "location": "Payon South",
     "size": "Medium",
     "element": "Earth"
@@ -994,8 +814,6 @@
     "level": 11,
     "base_xp": 78,
     "job_xp": 26,
-    "odin_base": 468,
-    "odin_job": 156,
     "location": "Prontera West Gate",
     "size": "Medium",
     "element": "Earth"
@@ -1005,8 +823,6 @@
     "level": 14,
     "base_xp": 44,
     "job_xp": 73,
-    "odin_base": 264,
-    "odin_job": 438,
     "location": "Prontera West Gate",
     "size": "Medium",
     "element": "Earth"
@@ -1016,8 +832,6 @@
     "level": 19,
     "base_xp": 68,
     "job_xp": 68,
-    "odin_base": 408,
-    "odin_job": 408,
     "location": "Capital Sewer 1F",
     "size": "Medium",
     "element": "Shadow"
@@ -1027,8 +841,6 @@
     "level": 20,
     "base_xp": 70,
     "job_xp": 70,
-    "odin_base": 420,
-    "odin_job": 420,
     "location": "Payon South",
     "size": "Medium",
     "element": "Poison"
@@ -1038,8 +850,6 @@
     "level": 25,
     "base_xp": 60,
     "job_xp": 100,
-    "odin_base": 360,
-    "odin_job": 600,
     "location": "Capital Sewer 2F",
     "size": "Medium",
     "element": "Shadow"
@@ -1049,8 +859,6 @@
     "level": 26,
     "base_xp": 62,
     "job_xp": 103,
-    "odin_base": 372,
-    "odin_job": 618,
     "location": "Payon South",
     "size": "Medium",
     "element": "Water"
@@ -1060,8 +868,6 @@
     "level": 28,
     "base_xp": 43,
     "job_xp": 129,
-    "odin_base": 258,
-    "odin_job": 774,
     "location": "Capital Sewer 2F",
     "size": "Medium",
     "element": "Poison"
@@ -1071,8 +877,6 @@
     "level": 33,
     "base_xp": 48,
     "job_xp": 144,
-    "odin_base": 288,
-    "odin_job": 864,
     "location": "Shipwreck 1F, 2F, 3F",
     "size": "Medium",
     "element": "Water"
@@ -1082,8 +886,6 @@
     "level": 33,
     "base_xp": 144,
     "job_xp": 48,
-    "odin_base": 864,
-    "odin_job": 288,
     "location": "Labyrinth Forest",
     "size": "Medium",
     "element": "Earth"
@@ -1093,8 +895,6 @@
     "level": 35,
     "base_xp": 125,
     "job_xp": 75,
-    "odin_base": 750,
-    "odin_job": 450,
     "location": "Shipwreck 1F, 2F, 3F",
     "size": "Medium",
     "element": "Undead"
@@ -1104,8 +904,6 @@
     "level": 36,
     "base_xp": 128,
     "job_xp": 77,
-    "odin_base": 768,
-    "odin_job": 462,
     "location": "Labyrinth Forest",
     "size": "Medium",
     "element": "Earth"
@@ -1115,8 +913,6 @@
     "level": 38,
     "base_xp": 106,
     "job_xp": 106,
-    "odin_base": 636,
-    "odin_job": 636,
     "location": "Shipwreck 1F, 2F, 3F",
     "size": "Medium",
     "element": "Undead"
@@ -1126,8 +922,6 @@
     "level": 39,
     "base_xp": 108,
     "job_xp": 108,
-    "odin_base": 648,
-    "odin_job": 648,
     "location": "Treasure Ship 1F, 2F, 3F",
     "size": "Medium",
     "element": "Undead"
@@ -1137,8 +931,6 @@
     "level": 39,
     "base_xp": 162,
     "job_xp": 54,
-    "odin_base": 972,
-    "odin_job": 324,
     "location": "Shipwreck 1F, 2F, 3F",
     "size": "Medium",
     "element": "Undead"
@@ -1148,8 +940,6 @@
     "level": 40,
     "base_xp": 110,
     "job_xp": 110,
-    "odin_base": 660,
-    "odin_job": 660,
     "location": "Mjolnir Dead Pit 1F",
     "size": "Medium",
     "element": "Undead"
@@ -1159,8 +949,6 @@
     "level": 43,
     "base_xp": 122,
     "job_xp": 122,
-    "odin_base": 732,
-    "odin_job": 732,
     "location": "Labyrinth Forest",
     "size": "Medium",
     "element": "Earth"
@@ -1170,8 +958,6 @@
     "level": 44,
     "base_xp": 158,
     "job_xp": 95,
-    "odin_base": 948,
-    "odin_job": 570,
     "location": "Morroc",
     "size": "Medium",
     "element": "Fire"
@@ -1181,8 +967,6 @@
     "level": 45,
     "base_xp": 65,
     "job_xp": 195,
-    "odin_base": 390,
-    "odin_job": 1170,
     "location": "Morroc",
     "size": "Medium",
     "element": "Poison"
@@ -1192,8 +976,6 @@
     "level": 47,
     "base_xp": 138,
     "job_xp": 138,
-    "odin_base": 828,
-    "odin_job": 828,
     "location": "Pyramid 1F",
     "size": "Medium",
     "element": "Poison"
@@ -1203,8 +985,6 @@
     "level": 49,
     "base_xp": 146,
     "job_xp": 146,
-    "odin_base": 876,
-    "odin_job": 876,
     "location": "Pyramid 1F",
     "size": "Medium",
     "element": "Shadow"
@@ -1214,8 +994,6 @@
     "level": 49,
     "base_xp": 146,
     "job_xp": 146,
-    "odin_base": 876,
-    "odin_job": 876,
     "location": "Sograt Desert",
     "size": "Medium",
     "element": "Earth"
@@ -1225,8 +1003,6 @@
     "level": 50,
     "base_xp": 113,
     "job_xp": 188,
-    "odin_base": 678,
-    "odin_job": 1128,
     "location": "Sograt Desert",
     "size": "Medium",
     "element": "Fire"
@@ -1236,8 +1012,6 @@
     "level": 51,
     "base_xp": 193,
     "job_xp": 116,
-    "odin_base": 1158,
-    "odin_job": 696,
     "location": "Pyramid 1F",
     "size": "Medium",
     "element": "Undead"
@@ -1247,8 +1021,6 @@
     "level": 53,
     "base_xp": 122,
     "job_xp": 203,
-    "odin_base": 732,
-    "odin_job": 1218,
     "location": "Pyramid 1F",
     "size": "Medium",
     "element": "Undead"
@@ -1258,8 +1030,6 @@
     "level": 54,
     "base_xp": 166,
     "job_xp": 166,
-    "odin_base": 996,
-    "odin_job": 996,
     "location": "Sograt Desert",
     "size": "Medium",
     "element": "Fire"
@@ -1269,8 +1039,6 @@
     "level": 56,
     "base_xp": 131,
     "job_xp": 218,
-    "odin_base": 786,
-    "odin_job": 1308,
     "location": "Underwater Cave",
     "size": "Medium",
     "element": "Water"
@@ -1280,8 +1048,6 @@
     "level": 56,
     "base_xp": 261,
     "job_xp": 87,
-    "odin_base": 1566,
-    "odin_job": 522,
     "location": "Pyramid 1F",
     "size": "Medium",
     "element": "Undead"
@@ -1291,8 +1057,6 @@
     "level": 57,
     "base_xp": 178,
     "job_xp": 178,
-    "odin_base": 1068,
-    "odin_job": 1068,
     "location": "Pyramid 2F",
     "size": "Medium",
     "element": "Undead"
@@ -1302,8 +1066,6 @@
     "level": 61,
     "base_xp": 147,
     "job_xp": 245,
-    "odin_base": 882,
-    "odin_job": 1470,
     "location": "Underwater Temple",
     "size": "Medium",
     "element": "Water"
@@ -1313,8 +1075,6 @@
     "level": 62,
     "base_xp": 202,
     "job_xp": 202,
-    "odin_base": 1212,
-    "odin_job": 1212,
     "location": "Payon South",
     "size": "Medium",
     "element": "Earth"
@@ -1324,8 +1084,6 @@
     "level": 62,
     "base_xp": 253,
     "job_xp": 152,
-    "odin_base": 1518,
-    "odin_job": 912,
     "location": "Sphinx Cavern",
     "size": "Medium",
     "element": "Shadow"
@@ -1335,8 +1093,6 @@
     "level": 63,
     "base_xp": 104,
     "job_xp": 312,
-    "odin_base": 624,
-    "odin_job": 1872,
     "location": "Payon West",
     "size": "Medium",
     "element": "Earth"
@@ -1346,8 +1102,6 @@
     "level": 64,
     "base_xp": 268,
     "job_xp": 161,
-    "odin_base": 1608,
-    "odin_job": 966,
     "location": "Payon West",
     "size": "Medium",
     "element": "Earth"
@@ -1357,8 +1111,6 @@
     "level": 60,
     "base_xp": 238,
     "job_xp": 143,
-    "odin_base": 1428,
-    "odin_job": 858,
     "location": "Sphinx Cavern",
     "size": "Medium",
     "element": "Fire"
@@ -1368,8 +1120,6 @@
     "level": 65,
     "base_xp": 220,
     "job_xp": 220,
-    "odin_base": 1320,
-    "odin_job": 1320,
     "location": "Munak Cave 1F",
     "size": "Medium",
     "element": "Undead"
@@ -1379,8 +1129,6 @@
     "level": 66,
     "base_xp": 226,
     "job_xp": 226,
-    "odin_base": 1356,
-    "odin_job": 1356,
     "location": "Munak Cave 1F",
     "size": "Medium",
     "element": "Undead"
@@ -1390,8 +1138,6 @@
     "level": 67,
     "base_xp": 232,
     "job_xp": 232,
-    "odin_base": 1392,
-    "odin_job": 1392,
     "location": "Munak Cave 1F",
     "size": "Medium",
     "element": "Undead"
@@ -1401,8 +1147,6 @@
     "level": 68,
     "base_xp": 149,
     "job_xp": 89,
-    "odin_base": 894,
-    "odin_job": 534,
     "location": "Munak Cave 1F",
     "size": "Small",
     "element": "Shadow"
@@ -1412,8 +1156,6 @@
     "level": 69,
     "base_xp": 61,
     "job_xp": 184,
-    "odin_base": 366,
-    "odin_job": 1098,
     "location": "Underwater Temple",
     "size": "Small",
     "element": "Water"
@@ -1423,8 +1165,6 @@
     "level": 69,
     "base_xp": 244,
     "job_xp": 244,
-    "odin_base": 1464,
-    "odin_job": 1464,
     "location": "Munak Cave 2F",
     "size": "Medium",
     "element": "Water"
@@ -1434,8 +1174,6 @@
     "level": 70,
     "base_xp": 125,
     "job_xp": 375,
-    "odin_base": 750,
-    "odin_job": 2250,
     "location": "Payon East Forest",
     "size": "Medium",
     "element": "Ghost"
@@ -1445,8 +1183,6 @@
     "level": 71,
     "base_xp": 320,
     "job_xp": 192,
-    "odin_base": 1920,
-    "odin_job": 1152,
     "location": "Goblin Forest",
     "size": "Medium",
     "element": "Fire"
@@ -1456,8 +1192,6 @@
     "level": 73,
     "base_xp": 268,
     "job_xp": 268,
-    "odin_base": 1608,
-    "odin_job": 1608,
     "location": "Goblin Forest",
     "size": "Medium",
     "element": "Water"
@@ -1467,8 +1201,6 @@
     "level": 73,
     "base_xp": 335,
     "job_xp": 201,
-    "odin_base": 2010,
-    "odin_job": 1206,
     "location": "Kordt Forest",
     "size": "Medium",
     "element": "Fire"
@@ -1478,8 +1210,6 @@
     "level": 74,
     "base_xp": 274,
     "job_xp": 274,
-    "odin_base": 1644,
-    "odin_job": 1644,
     "location": "Munak Cave 2F",
     "size": "Medium",
     "element": "Undead"
@@ -1489,8 +1219,6 @@
     "level": 75,
     "base_xp": 350,
     "job_xp": 210,
-    "odin_base": 2100,
-    "odin_job": 1260,
     "location": "Goblin Forest",
     "size": "Medium",
     "element": "Earth"
@@ -1500,8 +1228,6 @@
     "level": 76,
     "base_xp": 286,
     "job_xp": 286,
-    "odin_base": 1716,
-    "odin_job": 1716,
     "location": "Kordt Forest",
     "size": "Medium",
     "element": "Poison"
@@ -1511,8 +1237,6 @@
     "level": 77,
     "base_xp": 292,
     "job_xp": 292,
-    "odin_base": 1752,
-    "odin_job": 1752,
     "location": "Goblin Forest",
     "size": "Medium",
     "element": "Poison"
@@ -1522,8 +1246,6 @@
     "level": 77,
     "base_xp": 292,
     "job_xp": 292,
-    "odin_base": 1752,
-    "odin_job": 1752,
     "location": "Geffen Dungeon 1F",
     "size": "Medium",
     "element": "Undead"
@@ -1533,8 +1255,6 @@
     "level": 79,
     "base_xp": 304,
     "job_xp": 304,
-    "odin_base": 1824,
-    "odin_job": 1824,
     "location": "Goblin Forest",
     "size": "Medium",
     "element": "Wind"
@@ -1544,8 +1264,6 @@
     "level": 79,
     "base_xp": 304,
     "job_xp": 304,
-    "odin_base": 1824,
-    "odin_job": 1824,
     "location": "Mjolnir Mountains",
     "size": "Medium",
     "element": "Earth"
@@ -1555,8 +1273,6 @@
     "level": 83,
     "base_xp": 328,
     "job_xp": 328,
-    "odin_base": 1968,
-    "odin_job": 1968,
     "location": "Orc Village",
     "size": "Medium",
     "element": "Earth"
@@ -1566,8 +1282,6 @@
     "level": 84,
     "base_xp": 334,
     "job_xp": 334,
-    "odin_base": 2004,
-    "odin_job": 2004,
     "location": "Orc Dungeon",
     "size": "Medium",
     "element": "Shadow"
@@ -1577,8 +1291,6 @@
     "level": 85,
     "base_xp": 170,
     "job_xp": 510,
-    "odin_base": 1020,
-    "odin_job": 3060,
     "location": "Goblin Forest",
     "size": "Medium",
     "element": "Wind"
@@ -1588,8 +1300,6 @@
     "level": 85,
     "base_xp": 340,
     "job_xp": 340,
-    "odin_base": 2040,
-    "odin_job": 2040,
     "location": "Kordt Forest",
     "size": "Medium",
     "element": "Wind"
@@ -1599,8 +1309,6 @@
     "level": 88,
     "base_xp": 358,
     "job_xp": 358,
-    "odin_base": 2148,
-    "odin_job": 2148,
     "location": "Orc Dungeon",
     "size": "Medium",
     "element": "Earth"
@@ -1610,8 +1318,6 @@
     "level": 89,
     "base_xp": 546,
     "job_xp": 182,
-    "odin_base": 3276,
-    "odin_job": 1092,
     "location": "Geffen Dungeon 2F",
     "size": "Medium",
     "element": "Wind"
@@ -1621,8 +1327,6 @@
     "level": 89,
     "base_xp": 182,
     "job_xp": 546,
-    "odin_base": 1092,
-    "odin_job": 3276,
     "location": "Glast Heim Prison",
     "size": "Medium",
     "element": "Undead"
@@ -1632,8 +1336,6 @@
     "level": 92,
     "base_xp": 478,
     "job_xp": 287,
-    "odin_base": 2868,
-    "odin_job": 1722,
     "location": "Glast Heim Prison",
     "size": "Medium",
     "element": "Shadow"
@@ -1643,8 +1345,6 @@
     "level": 93,
     "base_xp": 388,
     "job_xp": 388,
-    "odin_base": 2328,
-    "odin_job": 2328,
     "location": "Glast Heim Prison",
     "size": "Medium",
     "element": "Undead"
@@ -1654,8 +1354,6 @@
     "level": 93,
     "base_xp": 485,
     "job_xp": 291,
-    "odin_base": 2910,
-    "odin_job": 1746,
     "location": "Clock Tower 2F",
     "size": "Medium",
     "element": "Shadow"
@@ -1665,8 +1363,6 @@
     "level": 94,
     "base_xp": 296,
     "job_xp": 493,
-    "odin_base": 1776,
-    "odin_job": 2958,
     "location": "Clock Tower B2",
     "size": "Medium",
     "element": "Neutral"
@@ -1676,8 +1372,6 @@
     "level": 82,
     "base_xp": 242,
     "job_xp": 403,
-    "odin_base": 1452,
-    "odin_job": 2418,
     "location": "Glast Heim St. Abbey",
     "size": "Medium",
     "element": "Shadow"
@@ -1687,8 +1381,6 @@
     "level": 95,
     "base_xp": 400,
     "job_xp": 400,
-    "odin_base": 2400,
-    "odin_job": 2400,
     "location": "Glast Heim St. Abbey",
     "size": "Medium",
     "element": "Shadow"
@@ -1698,8 +1390,6 @@
     "level": 96,
     "base_xp": 761,
     "job_xp": 457,
-    "odin_base": 4566,
-    "odin_job": 2742,
     "location": "Clock Tower 2F",
     "size": "Large",
     "element": "Wind"
@@ -1709,8 +1399,6 @@
     "level": 98,
     "base_xp": 209,
     "job_xp": 627,
-    "odin_base": 1254,
-    "odin_job": 3762,
     "location": "Clock Tower 2F",
     "size": "Medium",
     "element": "Wind"
@@ -1720,8 +1408,6 @@
     "level": 99,
     "base_xp": 636,
     "job_xp": 212,
-    "odin_base": 3816,
-    "odin_job": 1272,
     "location": "Clock Tower B2",
     "size": "Medium",
     "element": "Earth"
@@ -1731,8 +1417,6 @@
     "level": 99,
     "base_xp": 424,
     "job_xp": 424,
-    "odin_base": 2544,
-    "odin_job": 2544,
     "location": "Clock Tower 2F",
     "size": "Medium",
     "element": "Neutral"
@@ -1742,8 +1426,6 @@
     "level": 24,
     "base_xp": 176,
     "job_xp": 59,
-    "odin_base": 1056,
-    "odin_job": 354,
     "location": "Mjolnir Mountains",
     "size": "Large",
     "element": "Water"
@@ -1753,8 +1435,6 @@
     "level": 41,
     "base_xp": 214,
     "job_xp": 128,
-    "odin_base": 1284,
-    "odin_job": 768,
     "location": "Mjolnir Dead Pit 1F",
     "size": "Large",
     "element": "Poison"
@@ -1764,8 +1444,6 @@
     "level": 42,
     "base_xp": 133,
     "job_xp": 221,
-    "odin_base": 798,
-    "odin_job": 1326,
     "location": "Mjolnir Mountains",
     "size": "Large",
     "element": "Poison"
@@ -1775,8 +1453,6 @@
     "level": 42,
     "base_xp": 221,
     "job_xp": 133,
-    "odin_base": 1326,
-    "odin_job": 798,
     "location": "Morroc",
     "size": "Large",
     "element": "Earth"
@@ -1786,8 +1462,6 @@
     "level": 43,
     "base_xp": 275,
     "job_xp": 92,
-    "odin_base": 1650,
-    "odin_job": 552,
     "location": "Morroc",
     "size": "Large",
     "element": "Fire"
@@ -1797,8 +1471,6 @@
     "level": 44,
     "base_xp": 142,
     "job_xp": 236,
-    "odin_base": 852,
-    "odin_job": 1416,
     "location": "Labyrinth Forest",
     "size": "Large",
     "element": "Earth"
@@ -1808,8 +1480,6 @@
     "level": 45,
     "base_xp": 195,
     "job_xp": 195,
-    "odin_base": 1170,
-    "odin_job": 1170,
     "location": "Mjolnir Mountains",
     "size": "Large",
     "element": "Earth"
@@ -1819,8 +1489,6 @@
     "level": 46,
     "base_xp": 201,
     "job_xp": 201,
-    "odin_base": 1206,
-    "odin_job": 1206,
     "location": "Labyrinth Forest",
     "size": "Large",
     "element": "Neutral"
@@ -1830,8 +1498,6 @@
     "level": 47,
     "base_xp": 259,
     "job_xp": 155,
-    "odin_base": 1554,
-    "odin_job": 930,
     "location": "Sograt Desert",
     "size": "Large",
     "element": "Neutral"
@@ -1841,8 +1507,6 @@
     "level": 52,
     "base_xp": 237,
     "job_xp": 237,
-    "odin_base": 1422,
-    "odin_job": 1422,
     "location": "Mjolnir Mountains",
     "size": "Large",
     "element": "Poison"
@@ -1852,8 +1516,6 @@
     "level": 57,
     "base_xp": 200,
     "job_xp": 334,
-    "odin_base": 1200,
-    "odin_job": 2004,
     "location": "Sphinx Cavern",
     "size": "Large",
     "element": "Fire"
@@ -1863,8 +1525,6 @@
     "level": 58,
     "base_xp": 341,
     "job_xp": 205,
-    "odin_base": 2046,
-    "odin_job": 1230,
     "location": "Pyramid 2F",
     "size": "Large",
     "element": "Shadow"
@@ -1874,8 +1534,6 @@
     "level": 59,
     "base_xp": 140,
     "job_xp": 419,
-    "odin_base": 840,
-    "odin_job": 2514,
     "location": "Underwater Temple",
     "size": "Large",
     "element": "Water"
@@ -1885,8 +1543,6 @@
     "level": 59,
     "base_xp": 349,
     "job_xp": 209,
-    "odin_base": 2094,
-    "odin_job": 1254,
     "location": "Pyramid 2F",
     "size": "Large",
     "element": "Fire"
@@ -1896,8 +1552,6 @@
     "level": 63,
     "base_xp": 234,
     "job_xp": 390,
-    "odin_base": 1404,
-    "odin_job": 2340,
     "location": "Payon West",
     "size": "Large",
     "element": "Earth"
@@ -1907,8 +1561,6 @@
     "level": 64,
     "base_xp": 321,
     "job_xp": 321,
-    "odin_base": 1926,
-    "odin_job": 1926,
     "location": "Sphinx Cavern",
     "size": "Large",
     "element": "Fire"
@@ -1918,8 +1570,6 @@
     "level": 65,
     "base_xp": 495,
     "job_xp": 165,
-    "odin_base": 2970,
-    "odin_job": 990,
     "location": "Sphinx Cavern",
     "size": "Large",
     "element": "Undead"
@@ -1929,8 +1579,6 @@
     "level": 66,
     "base_xp": 339,
     "job_xp": 339,
-    "odin_base": 2034,
-    "odin_job": 2034,
     "location": "Payon East Forest",
     "size": "Large",
     "element": "Fire"
@@ -1940,8 +1588,6 @@
     "level": 68,
     "base_xp": 446,
     "job_xp": 268,
-    "odin_base": 2676,
-    "odin_job": 1608,
     "location": "Payon East Forest",
     "size": "Large",
     "element": "Fire"
@@ -1951,8 +1597,6 @@
     "level": 72,
     "base_xp": 295,
     "job_xp": 491,
-    "odin_base": 1770,
-    "odin_job": 2946,
     "location": "Orc Dungeon",
     "size": "Large",
     "element": "Undead"
@@ -1962,8 +1606,6 @@
     "level": 75,
     "base_xp": 210,
     "job_xp": 630,
-    "odin_base": 1260,
-    "odin_job": 3780,
     "location": "Orc Village",
     "size": "Large",
     "element": "Earth"
@@ -1973,8 +1615,6 @@
     "level": 76,
     "base_xp": 429,
     "job_xp": 429,
-    "odin_base": 2574,
-    "odin_job": 2574,
     "location": "Orc Dungeon",
     "size": "Large",
     "element": "Undead"
@@ -1984,8 +1624,6 @@
     "level": 78,
     "base_xp": 335,
     "job_xp": 559,
-    "odin_base": 2010,
-    "odin_job": 3354,
     "location": "Munak Cave 2F",
     "size": "Large",
     "element": "Ghost"
@@ -1995,8 +1633,6 @@
     "level": 80,
     "base_xp": 349,
     "job_xp": 581,
-    "odin_base": 2094,
-    "odin_job": 3486,
     "location": "Mjolnir Mountains",
     "size": "Large",
     "element": "Wind"
@@ -2006,8 +1642,6 @@
     "level": 84,
     "base_xp": 376,
     "job_xp": 626,
-    "odin_base": 2256,
-    "odin_job": 3756,
     "location": "Glast Heim Chivalry",
     "size": "Large",
     "element": "Shadow"
@@ -2017,8 +1651,6 @@
     "level": 86,
     "base_xp": 649,
     "job_xp": 389,
-    "odin_base": 3894,
-    "odin_job": 2334,
     "location": "Orc Village",
     "size": "Large",
     "element": "Fire"
@@ -2028,8 +1660,6 @@
     "level": 86,
     "base_xp": 519,
     "job_xp": 519,
-    "odin_base": 3114,
-    "odin_job": 3114,
     "location": "Glast Heim",
     "size": "Large",
     "element": "Fire"
@@ -2039,8 +1669,6 @@
     "level": 87,
     "base_xp": 660,
     "job_xp": 396,
-    "odin_base": 3960,
-    "odin_job": 2376,
     "location": "Geffen Dungeon 2F",
     "size": "Large",
     "element": "Ghost"
@@ -2050,8 +1678,6 @@
     "level": 88,
     "base_xp": 671,
     "job_xp": 403,
-    "odin_base": 4026,
-    "odin_job": 2418,
     "location": "Goblin Forest",
     "size": "Large",
     "element": "Wind"
@@ -2061,8 +1687,6 @@
     "level": 90,
     "base_xp": 833,
     "job_xp": 278,
-    "odin_base": 4998,
-    "odin_job": 1668,
     "location": "Geffen Dungeon 2F",
     "size": "Large",
     "element": "Undead"
@@ -2072,8 +1696,6 @@
     "level": 90,
     "base_xp": 555,
     "job_xp": 555,
-    "odin_base": 3330,
-    "odin_job": 3330,
     "location": "Glast Heim Churchyard",
     "size": "Large",
     "element": "Neutral"
@@ -2083,8 +1705,6 @@
     "level": 94,
     "base_xp": 739,
     "job_xp": 443,
-    "odin_base": 4434,
-    "odin_job": 2658,
     "location": "Glast Heim Chivalry",
     "size": "Large",
     "element": "Shadow"
@@ -2094,8 +1714,6 @@
     "level": 96,
     "base_xp": 254,
     "job_xp": 152,
-    "odin_base": 1524,
-    "odin_job": 912,
     "location": "Clock Tower 1F",
     "size": "Large",
     "element": "Poison"
@@ -2105,8 +1723,6 @@
     "level": 97,
     "base_xp": 927,
     "job_xp": 309,
-    "odin_base": 5562,
-    "odin_job": 1854,
     "location": "Clock Tower 1F",
     "size": "Large",
     "element": "Undead"
@@ -2116,8 +1732,6 @@
     "level": 98,
     "base_xp": 470,
     "job_xp": 784,
-    "odin_base": 2820,
-    "odin_job": 4704,
     "location": "Clock Tower 2F",
     "size": "Large",
     "element": "Undead"
@@ -2127,8 +1741,6 @@
     "level": 100,
     "base_xp": 323,
     "job_xp": 968,
-    "odin_base": 1938,
-    "odin_job": 5808,
     "location": "Clock Tower 2F",
     "size": "Large",
     "element": "Neutral"
@@ -2138,8 +1750,6 @@
     "level": 100,
     "base_xp": 645,
     "job_xp": 645,
-    "odin_base": 3870,
-    "odin_job": 3870,
     "location": "Clock Tower 2F",
     "size": "Large",
     "element": "Neutral"
@@ -2149,8 +1759,6 @@
     "level": 103,
     "base_xp": 504,
     "job_xp": 840,
-    "odin_base": 3024,
-    "odin_job": 5040,
     "location": "Comodo Cave",
     "size": "Large",
     "element": "Undead"
@@ -2160,8 +1768,6 @@
     "level": 105,
     "base_xp": 690,
     "job_xp": 690,
-    "odin_base": 4140,
-    "odin_job": 4140,
     "location": "Comodo Cave",
     "size": "Large",
     "element": "Neutral"
@@ -2171,8 +1777,6 @@
     "level": 106,
     "base_xp": 1049,
     "job_xp": 350,
-    "odin_base": 6294,
-    "odin_job": 2100,
     "location": "Zenhai Marsh",
     "size": "Large",
     "element": "Water"
@@ -2182,8 +1786,6 @@
     "level": 110,
     "base_xp": 368,
     "job_xp": 1103,
-    "odin_base": 2208,
-    "odin_job": 6618,
     "location": "Comodo Cave",
     "size": "Large",
     "element": "Neutral"
@@ -2193,8 +1795,6 @@
     "level": 112,
     "base_xp": 377,
     "job_xp": 1130,
-    "odin_base": 2262,
-    "odin_job": 6780,
     "location": "Hoomga Jungle",
     "size": "Large",
     "element": "Earth"
@@ -2204,8 +1804,6 @@
     "level": 114,
     "base_xp": 1157,
     "job_xp": 386,
-    "odin_base": 6942,
-    "odin_job": 2316,
     "location": "Kalala Swamp",
     "size": "Large",
     "element": "Fire"
@@ -2215,8 +1813,6 @@
     "level": 116,
     "base_xp": 395,
     "job_xp": 1184,
-    "odin_base": 2370,
-    "odin_job": 7104,
     "location": "Vally of Gyoll",
     "size": "Large",
     "element": "Shadow"
@@ -2226,8 +1822,6 @@
     "level": 117,
     "base_xp": 599,
     "job_xp": 998,
-    "odin_base": 3594,
-    "odin_job": 5988,
     "location": "Hoomga Jungle",
     "size": "Large",
     "element": "Fire"
@@ -2237,8 +1831,6 @@
     "level": 119,
     "base_xp": 816,
     "job_xp": 816,
-    "odin_base": 4896,
-    "odin_job": 4896,
     "location": "Realm of the Dead",
     "size": "Large",
     "element": "Shadow"
@@ -2248,8 +1840,6 @@
     "level": 120,
     "base_xp": 550,
     "job_xp": 550,
-    "odin_base": 3300,
-    "odin_job": 3300,
     "location": "Nameless Island",
     "size": "Medium",
     "element": "Undead"
@@ -2259,8 +1849,6 @@
     "level": 120,
     "base_xp": 825,
     "job_xp": 825,
-    "odin_base": 4950,
-    "odin_job": 4950,
     "location": "Vally of Gyoll",
     "size": "Large",
     "element": "Shadow"
@@ -2270,8 +1858,6 @@
     "level": 125,
     "base_xp": 885,
     "job_xp": 885,
-    "odin_base": 5310,
-    "odin_job": 5310,
     "location": "Border Inspection Station",
     "size": "Large",
     "element": "Fire"
@@ -2281,8 +1867,6 @@
     "level": 126,
     "base_xp": 449,
     "job_xp": 1346,
-    "odin_base": 2694,
-    "odin_job": 8076,
     "location": "El Mes Gorge",
     "size": "Large",
     "element": "Undead"
@@ -2292,8 +1876,6 @@
     "level": 130,
     "base_xp": 945,
     "job_xp": 945,
-    "odin_base": 5670,
-    "odin_job": 5670,
     "location": "Juperos Ruins F1",
     "size": "Large",
     "element": "Neutral"
@@ -2303,8 +1885,6 @@
     "level": 130,
     "base_xp": 473,
     "job_xp": 1418,
-    "odin_base": 2838,
-    "odin_job": 8508,
     "location": "Border Inspection Station",
     "size": "Large",
     "element": "Undead"
@@ -2314,8 +1894,6 @@
     "level": 130,
     "base_xp": 1418,
     "job_xp": 473,
-    "odin_base": 8508,
-    "odin_job": 2838,
     "location": "Juperos Ruins F1",
     "size": "Large",
     "element": "Neutral"
@@ -2325,8 +1903,6 @@
     "level": 141,
     "base_xp": 1346,
     "job_xp": 808,
-    "odin_base": 8076,
-    "odin_job": 4848,
     "location": "Ice Cave 1F",
     "size": "Large",
     "element": "Water"
@@ -2336,8 +1912,6 @@
     "level": 148,
     "base_xp": 1742,
     "job_xp": 581,
-    "odin_base": 10452,
-    "odin_job": 3486,
     "location": "Ice Cave 2F",
     "size": "Large",
     "element": "Water"
@@ -2347,8 +1921,6 @@
     "level": 150,
     "base_xp": 1185,
     "job_xp": 1185,
-    "odin_base": 7110,
-    "odin_job": 7110,
     "location": "Ice Cave 2F",
     "size": "Large",
     "element": "Water"

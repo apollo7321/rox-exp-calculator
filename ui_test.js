@@ -49,6 +49,21 @@ async function runUITests() {
                 }
             }, tc.uClasses || 1);
 
+            // Toggle Odin
+            if (tc.isOdin) {
+                await page.evaluate(() => {
+                    const el = document.getElementById('odin-blessing');
+                    el.checked = true;
+                    el.dispatchEvent(new Event('change'));
+                });
+            } else {
+                await page.evaluate(() => {
+                    const el = document.getElementById('odin-blessing');
+                    el.checked = false;
+                    el.dispatchEvent(new Event('change'));
+                });
+            }
+
             // Search for monster
             await page.evaluate((term) => {
                 const el = document.getElementById('search-input');

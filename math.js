@@ -36,7 +36,7 @@ function calculatePartyBonus(partySize, uniqueClasses) {
 function calculateFinalExp(baseXp, penMult, wlMult, partyMult, isOdin = false) {
     let finalXp = Math.floor(baseXp * penMult * wlMult * partyMult);
     finalXp = Math.max(1, finalXp);
-    if (isOdin) finalXp *= 5;
+    if (isOdin) finalXp *= 6; // 1x Base + 5x Odin Bonus = 6x Total
     return finalXp;
 }
 

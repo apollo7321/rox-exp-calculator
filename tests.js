@@ -31,8 +31,9 @@ tests.forEach((tc, idx) => {
     const wlMult = calculateWorldLevelBonus(tc.pLvl, tc.wLvl).multiplier;
     const penMult = calculatePenalty(tc.pLvl, m.level).percentage;
     const partyMult = calculatePartyBonus(tc.pSize || 1, tc.uClasses || 1);
+    const isOdin = tc.isOdin || false;
 
-    const cBase = calculateFinalExp(m.base_xp, penMult, wlMult, partyMult, false);
+    const cBase = calculateFinalExp(m.base_xp, penMult, wlMult, partyMult, isOdin);
 
     // Check base
     if (tc.actBase !== undefined && Math.abs(cBase - tc.actBase) > 1) { // allow 1 exp rounding diff
@@ -41,7 +42,7 @@ tests.forEach((tc, idx) => {
 
     // Check job
     if (tc.actJob !== undefined) {
-        const cJob = calculateFinalExp(m.job_xp, penMult, wlMult, partyMult, false);
+        const cJob = calculateFinalExp(m.job_xp, penMult, wlMult, partyMult, isOdin);
         if (Math.abs(cJob - tc.actJob) > 1) { // allow 1 exp rounding diff
             errors.push(`Test #${idx + 1} (${tc.name}): Expected Job ${tc.actJob}, got ${cJob}`);
         }
