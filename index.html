@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROX EXP Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <header class="header">
+            <h1>ROX EXP Calculator</h1>
+            <p>Calculate your optimal farming spot in Ragnarok X: Next Generation.</p>
+        </header>
+
+        <section class="controls">
+            <div class="control-group">
+                <label for="player-level">Player Level</label>
+                <input type="number" id="player-level" value="50" min="1" max="150" aria-label="Player Level">
+            </div>
+
+            <div class="control-group">
+                <label for="party-size">Party Size (1-5)</label>
+                <input type="number" id="party-size" value="1" min="1" max="5" aria-label="Party Size">
+            </div>
+
+            <div class="control-group">
+                <label for="unique-classes">Unique Classes (1-5)</label>
+                <input type="number" id="unique-classes" value="1" min="1" max="5" aria-label="Unique Classes">
+            </div>
+
+            <div class="control-group">
+                <label for="world-level">Server World Level</label>
+                <input type="number" id="world-level" value="56" min="1" max="150" aria-label="World Level">
+            </div>
+
+            <div class="control-group checkbox-group">
+                <input type="checkbox" id="odin-blessing">
+                <label for="odin-blessing" class="checkbox-label">Odin's Blessing (x5 EXP)</label>
+            </div>
+        </section>
+
+        <section class="search-section">
+            <div class="search-bar">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+                <input type="text" id="search-input" placeholder="Search by monster name, element, or size...">
+            </div>
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="sort-filter">Sort:</label>
+                    <select id="sort-filter">
+                        <option value="total">Total EXP (Default)</option>
+                        <option value="base">Base EXP</option>
+                        <option value="job">Job EXP</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="size-filter">Size:</label>
+                    <select id="size-filter">
+                        <option value="All">All</option>
+                        <option value="Small">Small</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Large">Large</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="element-filter">Element:</label>
+                    <select id="element-filter">
+                        <option value="All">All</option>
+                        <option value="Neutral">Neutral</option>
+                        <option value="Water">Water</option>
+                        <option value="Earth">Earth</option>
+                        <option value="Fire">Fire</option>
+                        <option value="Wind">Wind</option>
+                        <option value="Poison">Poison</option>
+                        <option value="Holy">Holy</option>
+                        <option value="Shadow">Shadow</option>
+                        <option value="Ghost">Ghost</option>
+                        <option value="Undead">Undead</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <section class="results">
+            <div class="results-header">
+                <div class="col-name">Monster</div>
+                <div class="col-level">Level</div>
+                <div class="col-details">Details</div>
+                <div class="col-base">Base EXP <span class="calc-note">(calc)</span></div>
+                <div class="col-job">Job EXP <span class="calc-note">(calc)</span></div>
+                <div class="col-penalty">Penalty</div>
+            </div>
+            <div id="monster-list" class="monster-list">
+                <!-- Monster rows will be injected here by JS -->
+                <div class="loading">Loading monsters...</div>
+            </div>
+        </section>
+    </div>
+    <script src="math.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

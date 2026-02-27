@@ -1,0 +1,21 @@
+{
+    "name": "rox-exp-calculator",
+    "version": "1.0.0",
+    "description": "Ragnarok X Next Generation EXP Calculator with perfect in-game math",
+    "scripts": {
+        "start": "serve -l 8080",
+        "test": "npm run test:unit && npm run test:ui",
+        "test:unit": "node tests.js",
+        "test:ui": "node ui_test.js",
+        "build": "node build.js"
+    },
+    "devDependencies": {
+        "clean-css": "^5.3.3",
+        "html-minifier-terser": "^7.2.0",
+        "puppeteer": "^24.37.5",
+        "serve": "^14.2.1",
+        "terser": "^5.46.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
