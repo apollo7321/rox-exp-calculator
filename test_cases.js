@@ -19,7 +19,8 @@ const testCases = [
     { name: "Matyr", pLvl: 54, wLvl: 56, mLvl: 49, actBase: 116, actJob: 116 },
     { name: "Mummy", pLvl: 54, wLvl: 56, mLvl: 56, actBase: 261, actJob: 87 },
 
-    // 3. User's Live Party Data (Player 54, World 56, Party 5, Jobs 5)
+    // 3. User's Live Party Data
+    { name: "Isis", pLvl: 55, wLvl: 57, mLvl: 58, pSize: 2, uClasses: 2, actBase: 196, actJob: 118, isParty: true },
     { name: "Argiope", pLvl: 54, wLvl: 56, pSize: 5, uClasses: 5, actBase: 79, actJob: 79, isParty: true },
 
     // 4. User's Live Party Data (Player 54, World 56, Party 5, Jobs 4)
