@@ -288,6 +288,21 @@ select:focus {
 
 /* Responsive Grid */
 @media (max-width: 768px) {
+    .search-section {
+        flex-wrap: wrap;
+    }
+
+    .search-bar {
+        flex: 1 1 100%;
+        min-width: 100%;
+    }
+
+    .filters {
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: flex-start;
+    }
+
     .results-header {
         display: none;
     }
