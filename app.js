@@ -12,6 +12,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let monstersData = [];
 
+    // Load saved settings BEFORE initial render
+    const savedPlayerLevel = localStorage.getItem('rox_player_level');
+    if (savedPlayerLevel) playerLevelInput.value = savedPlayerLevel;
+
+    const savedWorldLevel = localStorage.getItem('rox_world_level');
+    if (savedWorldLevel) worldLevelInput.value = savedWorldLevel;
+
     // Load monster data
     if (typeof window.ROX_MONSTERS_DATA !== 'undefined') {
         monstersData = window.ROX_MONSTERS_DATA;
@@ -28,13 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 monsterList.innerHTML = '<div class="no-results">Error loading monster data. Make sure you are running a local server to fetch the JSON file.</div>';
             });
     }
-
-    // Load saved settings
-    const savedPlayerLevel = localStorage.getItem('rox_player_level');
-    if (savedPlayerLevel) playerLevelInput.value = savedPlayerLevel;
-
-    const savedWorldLevel = localStorage.getItem('rox_world_level');
-    if (savedWorldLevel) worldLevelInput.value = savedWorldLevel;
 
     // Add event listeners
     const inputs = [searchInput, sizeFilter, elementFilter, sortFilter, playerLevelInput, worldLevelInput, partySizeInput, uniqueClassesInput, odinBlessingInput];
