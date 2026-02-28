@@ -5,7 +5,8 @@ const testCases = [
     { name: "Ambernite", pLvl: 20, wLvl: 50, mLvl: 24, mBase: 39, actBase: 115 }, // Scenario 3 (Corrected expected base given DB base=39)
     { name: "Golem", pLvl: 50, wLvl: 80, actBase: 958 }, // Scenario A
 
-    // 2. User's Live Solo Data (Player 54, World 56)
+    // 2. User's Live Solo Data
+    { name: "Isis", pLvl: 55, wLvl: 57, mLvl: 58, actBase: 341, actJob: 205 },
     { name: "Argiope", pLvl: 54, wLvl: 56, mLvl: 52, actBase: 237, actJob: 237 },
     { name: "Stainer", pLvl: 54, wLvl: 56, mLvl: 31, actBase: 4, actJob: 4 },
     { name: "Flora", pLvl: 54, wLvl: 56, mLvl: 45, actBase: 78, actJob: 78 },
