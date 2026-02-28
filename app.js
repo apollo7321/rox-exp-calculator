@@ -135,8 +135,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             <span class="tag">${m.element}</span>
                         </div>
                     </div>
-                    <div class="col-base exp-val" style="color: var(--primary)">${m.baseTotal.toLocaleString()}</div>
-                    <div class="col-job exp-val" style="color: #a78bfa">${m.jobTotal.toLocaleString()}</div>
+                    <div class="col-base exp-val" style="color: var(--exp-base)">${m.baseTotal.toLocaleString()}</div>
+                    <div class="col-job exp-val" style="color: var(--exp-job)">${m.jobTotal.toLocaleString()}</div>
                     <div class="col-penalty">
                         <span class="penalty-badge ${m.penaltyInfo.class}">${m.penaltyInfo.text}</span>
                         ${wlBonusInfo.multiplier !== 1.0 ? `<div style="font-size: 0.7rem; color: var(--accent); margin-top: 4px; text-align: center;">${wlBonusInfo.label}</div>` : ''}
