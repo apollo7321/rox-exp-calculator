@@ -6,6 +6,7 @@ const testCases = [
     { name: "Golem", pLvl: 50, wLvl: 80, actBase: 958 }, // Scenario A
 
     // 2. User's Live Solo Data
+    { name: "Side Winder", pLvl: 55, wLvl: 57, mLvl: 47, actBase: 82, actJob: 82 },
     { name: "Verit", pLvl: 55, wLvl: 57, mLvl: 57, actBase: 178, actJob: 178 },
     { name: "Isis", pLvl: 55, wLvl: 57, mLvl: 58, actBase: 341, actJob: 205 },
     { name: "Argiope", pLvl: 54, wLvl: 56, mLvl: 52, actBase: 237, actJob: 237 },
